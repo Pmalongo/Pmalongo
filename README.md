@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pmalongo
-- 👀 I’m interested in C#,vb, React Native, php, js, C++
+- 👀 I’m interested in C#,vb, React, React Native, php, js, C++
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on WhatsApp : +265996441303 
